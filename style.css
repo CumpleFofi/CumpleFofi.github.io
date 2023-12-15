@@ -1351,7 +1351,7 @@ body {
 }
 
 .image-container2 img {
-  max-width: 30%;
+  max-width: 40%;
   position: absolute;
   top: 40%;
   left: 50%;
@@ -1368,7 +1368,7 @@ body {
   position: absolute;
   left: 50%;
   top: 52%;
-  transform: scale(0.6);
+  transform: scale(0.7);
 }
 .image-container2 {
   text-align: center;
