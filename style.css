@@ -1367,7 +1367,7 @@ body {
   .flowers {
   position: absolute;
   left: 50%;
-  top: 52%;
+  top: 51%;
   transform: scale(0.7);
 }
 .image-container2 {
@@ -1375,7 +1375,7 @@ body {
 }
 
 .image-container2 img {
-  max-width: 60%;
+  max-width: 70%;
   top: 150px;
   left: 50%;
  
